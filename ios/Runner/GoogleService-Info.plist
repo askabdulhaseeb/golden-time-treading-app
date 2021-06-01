@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>698673008242-jtj5pqt66761ms2ndrdqpq31oji0eb4u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.698673008242-jtj5pqt66761ms2ndrdqpq31oji0eb4u</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>698673008242-r34da9shnc2i7do799qu5lgnmn7s536v.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAcrtAeALV7N-x46eI8-BGtyb0EULCy6eU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>698673008242</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.goldenTimeTreadingApp</string>
+	<key>PROJECT_ID</key>
+	<string>goldentimeapp-6b184</string>
+	<key>STORAGE_BUCKET</key>
+	<string>goldentimeapp-6b184.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:698673008242:ios:61b45bf41ec77643413ceb</string>
+</dict>
+</plist>

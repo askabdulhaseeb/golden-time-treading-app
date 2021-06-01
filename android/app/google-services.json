@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "698673008242",
+    "project_id": "goldentimeapp-6b184",
+    "storage_bucket": "goldentimeapp-6b184.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698673008242:android:15bfab746660d6a3413ceb",
+        "android_client_info": {
+          "package_name": "com.example.golden_time_treading_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698673008242-r34da9shnc2i7do799qu5lgnmn7s536v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.golden_time_treading_app",
+            "certificate_hash": "358dbec20a25c8db5e2099cf459b3ae6f7adf7a1"
+          }
+        },
+        {
+          "client_id": "698673008242-a548kggv345n25ikud3fp4gbforvdje8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6j5ltnx1CACq9eLsfwosEKyMR-REjtxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698673008242-a548kggv345n25ikud3fp4gbforvdje8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
